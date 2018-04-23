@@ -69,10 +69,4 @@ app.config ['$locationProvider','$routeProvider',($locationProvider,$routeProvid
 			controller: 'mainCtrl'
 			template: "<h3>404</h3>"
 
-
-
-	$locationProvider.html5Mode
-		enabled: true
-		requireBase: true
-
 ]
