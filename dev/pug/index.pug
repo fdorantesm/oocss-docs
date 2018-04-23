@@ -1,5 +1,5 @@
-extends layout
-include mixins
+extends inc/layout
+include inc/mixins
 
 block main
 	section.main.hin
@@ -11,7 +11,9 @@ block main
 							h1.fw300.fsp40(title="Oriented Objects CSS") 
 								div OO#[span.oocss CSS]
 								//- .fsp12 Oriented Object CSS
-							h2.fw300.fsp20 A light powerful framework to make front-end easiest
+							h2.fw300.fsp20
+								div A light powerful framework
+								div to make front-end easiest
 						.col-auto
 							.p5
 								a.btn.flat(href="docs.html")

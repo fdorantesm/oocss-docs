@@ -1,0 +1,1438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cente",
+				"centered"
+			],
+			[
+				"pal",
+				"palette"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"visib",
+				"visible"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"fle",
+				"flex-grow"
+			],
+			[
+				"flex-",
+				"flex-basis"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"border-s",
+				"border-size"
+			],
+			[
+				"bord",
+				"borders"
+			],
+			[
+				"side",
+				"sides"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"o",
+				"bootstrap.css"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"hide-med",
+				"hide-md-above"
+			],
+			[
+				"__t",
+				"__type"
+			],
+			[
+				"__",
+				"__cost"
+			],
+			[
+				"padid",
+				"padding-right"
+			],
+			[
+				"stringi",
+				"querystring.stringify"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"pol",
+				"poligono"
+			],
+			[
+				"polygon",
+				"Polygon"
+			],
+			[
+				"geo",
+				"GeoJSON"
+			],
+			[
+				"spa",
+				"samp\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"array_",
+				"array_flip"
+			],
+			[
+				"re",
+				"re\trequire"
+			],
+			[
+				"viaj",
+				"viaje2"
+			],
+			[
+				"update",
+				"updateParams"
+			],
+			[
+				"con",
+				"console.dir();"
+			],
+			[
+				"info",
+				"console.info();"
+			],
+			[
+				"vi",
+				"viaje"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/css/style.styl",
+			"settings":
+			{
+				"buffer_size": 2191,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/Pug/Pug.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Pug/Pug.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Stylus/Stylus.sublime-build",
+					""
+				],
+				[
+					"Packages/Stylus/Stylus.sublime-build",
+					"compress"
+				],
+				[
+					"Packages/User/Stylus/Stylus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Stylus/Stylus.sublime-build",
+					"compress"
+				]
+			],
+			[
+				"Packages/Stylus/Stylus.sublime-build",
+				"compress"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Stylus/Stylus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Stylus/Stylus.sublime-build",
+					"compress"
+				]
+			],
+			[
+				"Packages/User/Stylus/Stylus.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"syntax: sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"exp",
+				"Format CSS: Expanded"
+			],
+			[
+				"sass",
+				"Build With: SASS - Compressed"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"ex",
+				"Format CSS: Expanded"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"e",
+				"Format CSS: Expanded"
+			],
+			[
+				"css:",
+				"Format CSS: Compressed"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"file dele",
+				"File: Delete"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Quick Add"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"expa",
+				"Format CSS: Expanded"
+			],
+			[
+				"expand",
+				"Format CSS: Expanded"
+			],
+			[
+				"forma",
+				"Format CSS: Expanded"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ecma",
+				"Set Syntax: Ecmascript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"json prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"synt js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"synta",
+				"Set Syntax: JSON"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			]
+		],
+		"width": 555.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/projects/www/oocss-docs",
+		"/mnt/projects/www/oocss-docs/assets",
+		"/mnt/projects/www/oocss-docs/assets/css"
+	],
+	"file_history":
+	[
+		"/www/oocss/src/bootstrap.styl",
+		"/www/oocss/src/util/helpers/cursor.styl",
+		"/www/oocss/dist/bootstrap.css",
+		"/www/oocss/gulpfile.js",
+		"/www/oocss/package.json",
+		"/www/oocss/src/util/mixins.styl",
+		"/www/oocss/src/util/test.sass",
+		"/www/oocss/src/util/test.css",
+		"/www/oocss/src/util/test.scss",
+		"/www/oocss/src/util/queries.sass",
+		"/mnt/projects/www/oocss-docs/assets/css/style.styl",
+		"/www/oocss/src/util/queries.css",
+		"/www/oocss/src/util/variables.styl",
+		"/home/fer/.config/sublime-text-3/Packages/SASS Build/SASS.sublime-build",
+		"/home/fer/.config/sublime-text-3/Packages/SASS Build/SASS - Compressed.sublime-build",
+		"/home/fer/.config/sublime-text-3/Packages/Stylus/Stylus.sublime-build",
+		"/home/fer/.config/sublime-text-3/Packages/Sass/package-metadata.json",
+		"/www/oocss/src/util/functions.styl",
+		"/www/oocss/src/util/helpers/font.styl",
+		"/www/oocss/src/util/helpers/text.styl",
+		"/www/oocss/bootstrap.css",
+		"/www/oocss/docs/index.pug",
+		"/www/oocss/docs/partials/home.pug",
+		"/www/oocss/docs/docs.pug",
+		"/www/oocss/src/util/helpers/table.styl",
+		"/www/oocss/src/util/helpers/opacity-and-visibility.styl",
+		"/www/oocss/src/util/helpers/visible-and-hidden.styl",
+		"/www/consorcio/public/css/layers.styl",
+		"/www/oocss/docs/partials/background.pug",
+		"/www/oocss/docs/partials/anchor.pug",
+		"/www/oocss/docs/partials/color.pug",
+		"/www/oocss/docs/partials/border.pug",
+		"/www/oocss/docs/partials/box-sizing.pug",
+		"/www/oocss/docs/partials/margin-and-padding.pug",
+		"/www/oocss/docs/partials/list.pug",
+		"/www/oocss/docs/partials/flex.pug",
+		"/www/oocss/docs/partials/cursor.pug",
+		"/www/oocss/docs/partials/display.pug",
+		"/www/oocss/docs/partials/font.pug",
+		"/www/oocss/docs/partials/height.pug",
+		"/www/oocss/docs/partials/opacity-and-visibility.pug",
+		"/www/oocss/docs/partials/position.pug",
+		"/www/oocss/docs/partials/text.pug",
+		"/www/oocss/src/util/helpers/float.styl",
+		"/www/oocss/src/util/helpers/position.styl",
+		"/www/oocss/src/util/helpers/vertical-align.styl",
+		"/www/oocss/docs/assets/css/style.css",
+		"/www/oocss/docs/assets/css/style.styl",
+		"/www/oocss/src/util/helpers/margin-and-padding.styl",
+		"/www/oocss/src/util/helpers/list.styl",
+		"/www/oocss/src/util/helpers/generals.styl",
+		"/www/oocss/src/util/helpers/flex.styl",
+		"/www/oocss/src/util/helpers/display.styl",
+		"/www/oocss/docs/mixins.pug",
+		"/www/oocss/docs/partials/visible-and-hidden.pug",
+		"/www/oocss/src/util/helpers/box-sizing.styl",
+		"/www/oocss/src/util/helpers/border.styl",
+		"/www/oocss/docs/layout.pug",
+		"/www/oocss/dist/bootstrap.min.css",
+		"/www/oocss/dist/bootstrap.css.map",
+		"/tmp/.fr-0bjBeQ/oocss-master/bootstrap.css",
+		"/www/oocss/docs/assets/js/jquery-3.3.1.min.js",
+		"/www/oocss/docs/assets/js/highlight/highlight.pack.js",
+		"/www/oocss/.gitignore",
+		"/www/oocss/src/util/helpers/colors.styl",
+		"/www/oocss/src/util/helpers/background.styl",
+		"/www/oocss/src/util/helpers/anchor.styl",
+		"/www/oocss/src/util/grid.styl",
+		"/www/oocss/docs/partials/flexbox.pug",
+		"/www/oocss/docs/partials/float.pug",
+		"/mnt/projects/www/gulp-stylus/examples/gulpfile.js",
+		"/www/oocss/util/helpers/table.css",
+		"/www/oocss/util/palette.styl",
+		"/www/oocss/docs/assets/js/scripts.coffee",
+		"/www/oocss/docs/partials/home.html",
+		"/www/oocss/util/helpers/visible-and-hidden.css",
+		"/www/oocss/docs/partials/show-and-hide.pug",
+		"/www/oocss/docs/partials/show-and-hide.html",
+		"/www/oocss/util/helpers/margin-and-padding.styl",
+		"/www/oocss/util/mixins.styl",
+		"/www/oocss/docs/assets/js/highlight/monokai-sublime.css",
+		"/home/fer/&&",
+		"/home/fer/sh",
+		"/www/oocss/util/grid.css",
+		"/www/oocss/util/functions.styl",
+		"/www/oocss/util/helpers/border.css",
+		"/www/oocss/util/helpers/border-style.styl",
+		"/www/oocss/docs/layout.html",
+		"/www/oocss/util/variables.styl",
+		"/www/oocss/util/helpers/colors.css",
+		"/www/oocss/util/helpers/opacity-and-visibility.styl",
+		"/www/oocss/util/helpers/cursor.styl",
+		"/www/oocss/util/helpers/cursor.css",
+		"/www/oocss/util/functions.css",
+		"/www/oocss/util/grid.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/box.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/cursor.styl",
+		"/mnt/projects/www/oocss-framework/bootstrap.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/display.styl",
+		"/mnt/projects/www/oocss-framework/util/mixins.styl",
+		"/mnt/projects/www/oocss-framework/util/palette.styl",
+		"/mnt/projects/www/oocss-framework/bootstrap.css",
+		"/mnt/projects/www/oocss-framework/util/helpers/height.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/list.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/position.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/show-and-hide.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/table.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/margin-and-padding.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/form.styl",
+		"/mnt/projects/www/oocss/bootstrap.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/text.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/font.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/anchor.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/background.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/z-index.styl",
+		"/mnt/projects/www/oocss-framework/oocss.sublime-project",
+		"/www/oocss/oocss.sublime-project",
+		"/mnt/projects/www/oocss-framework/util/helpers/opacity-and-visibility.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/opacity-and-visibility.css",
+		"/mnt/projects/www/oocss-framework/flex.styl",
+		"/mnt/projects/www/oocss-framework/util/helpers/generals.styl",
+		"/mnt/projects/www/consorcio/public/css/layers.styl",
+		"/mnt/projects/www/consorcio/public/css/classes.styl",
+		"/mnt/projects/www/consorcio/public/css/responsive.styl",
+		"/mnt/projects/www/moradaui/static/css/.goutputstream-UROEGZ",
+		"/mnt/projects/www/oocss-framework/colors.styl",
+		"/mnt/projects/www/moradaui/static/css/encode-sans.css",
+		"/mnt/projects/www/moradaui/static/css/fonts/encode-sans.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color",
+			"fuscia",
+			"{block}",
+			"max",
+			"width",
+			"xs",
+			"max",
+			"width",
+			"=",
+			"{block}",
+			"md",
+			"types",
+			"block",
+			"optional",
+			"default",
+			"to",
+			"fractions",
+			"percentage",
+			"grid",
+			"through",
+			"max-offset",
+			"max",
+			"offset",
+			"through",
+			"value",
+			"compressed",
+			"@include ",
+			"value",
+			"padding",
+			"watch",
+			"function",
+			"function () {",
+			".pipe(obfuscate)",
+			"obfuscate",
+			"function",
+			"bootstrap.styl",
+			"normal",
+			"jshint",
+			"javascript",
+			"source",
+			"sourcemap",
+			".pipe(sourcemaps.write())",
+			"normal",
+			"false",
+			"true",
+			"sourcemap",
+			"sourcemaps",
+			"nib",
+			"sourcemaps",
+			"sty",
+			"sourcemaps",
+			"inline",
+			"linenos",
+			"inline",
+			"build",
+			"normal",
+			"one",
+			"compressed",
+			"one",
+			"centered",
+			"th",
+			"600",
+			"Deep",
+			"Font",
+			"a(href=\"#\")",
+			"900",
+			"600",
+			"Green",
+			"palette('Green')",
+			"Green",
+			"purple",
+			"Purple",
+			"background",
+			"right",
+			".table-stripe",
+			"table",
+			"purple",
+			"table",
+			"striped",
+			"strapped",
+			"disabled",
+			"fa",
+			"#[.fa.fa",
+			"cross",
+			"Hidden",
+			"td.disabled Hidden",
+			"thick",
+			"Visible",
+			"td.success Visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"visible",
+			"Visible",
+			"before",
+			"after",
+			"table-resp",
+			"block",
+			"sm",
+			"table",
+			":",
+			"Float",
+			"collapse",
+			"collapse()",
+			"visible()",
+			"visible",
+			"collapse",
+			".col.tac",
+			"o100",
+			".o",
+			"o100",
+			".col.tac",
+			".col",
+			"div",
+			"purple",
+			"p."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".table-striped"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/css/style.styl",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/User/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-pull":
+	{
+		"height": 122.0
+	},
+	"output.git-push":
+	{
+		"height": 122.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "oocss-docs.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src/util/queries.sass"
+			],
+			[
+				"mixins",
+				"src/util/mixins.styl"
+			],
+			[
+				"variabl",
+				"src/util/variables.styl"
+			],
+			[
+				"mixin",
+				"src/util/mixins.styl"
+			],
+			[
+				"boo",
+				"dist/bootstrap.css"
+			],
+			[
+				"boot",
+				"dist/bootstrap.css"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"general",
+				"src/util/helpers/generals.styl"
+			],
+			[
+				"la",
+				"docs/layout.pug"
+			],
+			[
+				"in",
+				"docs/index.pug"
+			],
+			[
+				"doc",
+				"docs/docs.pug"
+			],
+			[
+				"tab",
+				"util/helpers/table.css"
+			],
+			[
+				"flexb",
+				"docs/partials/flexbox.pug"
+			],
+			[
+				"bo",
+				"bootstrap.styl"
+			],
+			[
+				"table",
+				"util/helpers/table.styl"
+			],
+			[
+				"visi",
+				"docs/partials/visible-and-hidden.pug"
+			],
+			[
+				"sty",
+				"docs/assets/css/style.styl"
+			],
+			[
+				"d",
+				"docs/docs.pug"
+			],
+			[
+				"pale",
+				"util/palette.styl"
+			],
+			[
+				"posit",
+				"docs/partials/position.pug"
+			],
+			[
+				"st",
+				"docs/assets/css/style.styl"
+			],
+			[
+				"vari",
+				"util/variables.styl"
+			],
+			[
+				"ta",
+				"util/helpers/table.styl"
+			],
+			[
+				"vis",
+				"docs/partials/visible-and-hidden.pug"
+			],
+			[
+				"styl",
+				"docs/assets/css/style.styl"
+			],
+			[
+				"docs",
+				"docs/docs.pug"
+			],
+			[
+				"ba",
+				"docs/partials/background.pug"
+			],
+			[
+				"t",
+				"util/helpers/table.styl"
+			],
+			[
+				"b",
+				"bootstrap.styl"
+			],
+			[
+				"back",
+				"docs/partials/background.pug"
+			],
+			[
+				"s",
+				"docs/assets/css/style.styl"
+			],
+			[
+				"grid",
+				"util/grid.styl"
+			],
+			[
+				"do",
+				"docs/docs.pug"
+			],
+			[
+				"visible",
+				"docs/partials/visible-and-hidden.pug"
+			],
+			[
+				"table.",
+				"util/helpers/table.styl"
+			],
+			[
+				"ind",
+				"docs/index.pug"
+			],
+			[
+				"lao",
+				"docs/layout.pug"
+			],
+			[
+				"visib",
+				"util/helpers/visible-and-hidden.styl"
+			],
+			[
+				"tex",
+				"docs/partials/text.pug"
+			],
+			[
+				"pos",
+				"docs/partials/position.pug"
+			],
+			[
+				"opa",
+				"docs/partials/opacity-and-visibility.pug"
+			],
+			[
+				"sr",
+				"docs/assets/js/scripts.coffee"
+			],
+			[
+				"margin",
+				"docs/partials/margin-and-padding.pug"
+			],
+			[
+				"lis",
+				"docs/partials/list.pug"
+			],
+			[
+				"hei",
+				"docs/partials/height.pug"
+			],
+			[
+				"font",
+				"docs/partials/font.pug"
+			],
+			[
+				"float",
+				"docs/partials/float.pug"
+			],
+			[
+				"flex",
+				"docs/partials/flex.pug"
+			],
+			[
+				"displ",
+				"docs/partials/display.pug"
+			],
+			[
+				"cur",
+				"docs/partials/cursor.pug"
+			],
+			[
+				"co",
+				"docs/partials/color.pug"
+			],
+			[
+				"color",
+				"docs/partials/color.pug"
+			],
+			[
+				"color.",
+				"docs/partials/color.pug"
+			],
+			[
+				"docs.",
+				"docs/docs.pug"
+			],
+			[
+				"home",
+				"docs/partials/home.pug"
+			],
+			[
+				"docs.p",
+				"docs/docs.pug"
+			],
+			[
+				"mixins.s",
+				"util/mixins.styl"
+			],
+			[
+				"lay",
+				"docs/layout.pug"
+			],
+			[
+				"mix",
+				"util/mixins.styl"
+			],
+			[
+				"index",
+				"docs/index.pug"
+			],
+			[
+				"vert",
+				"util/helpers/vertical-align.styl"
+			],
+			[
+				"mar",
+				"util/helpers/margin-and-padding.styl"
+			],
+			[
+				"padd",
+				"util/helpers/margin-and-padding.styl"
+			],
+			[
+				"main",
+				"util/helpers/margin-and-padding.styl"
+			],
+			[
+				"l",
+				"docs/layout.pug"
+			],
+			[
+				"fle",
+				"docs/partials/flexbox.pug"
+			],
+			[
+				"varia",
+				"util/variables.styl"
+			],
+			[
+				"cu",
+				"util/helpers/cursor.styl"
+			],
+			[
+				"inde",
+				"docs/index.pug"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"layo",
+				"docs/layout.pug"
+			],
+			[
+				"text",
+				"util/helpers/text.styl"
+			],
+			[
+				"var",
+				"util/variables.styl"
+			],
+			[
+				"bord",
+				"util/helpers/border.styl"
+			],
+			[
+				"anc",
+				"util/helpers/anchor.styl"
+			],
+			[
+				"mixn",
+				"util/mixins.styl"
+			],
+			[
+				"gri",
+				"util/grid.css"
+			],
+			[
+				"fl",
+				"docs/partials/flexbox.pug"
+			],
+			[
+				"func",
+				"util/functions.styl"
+			],
+			[
+				"border",
+				"util/helpers/border.styl"
+			],
+			[
+				"bor",
+				"util/helpers/border.css"
+			],
+			[
+				"vi",
+				"docs/partials/visible-and-hidden.pug"
+			],
+			[
+				"backgr",
+				"util/helpers/background.styl"
+			],
+			[
+				"an",
+				"util/helpers/anchor.styl"
+			],
+			[
+				"docs/",
+				"docs/index.pug"
+			],
+			[
+				"variab",
+				"util/variables.styl"
+			],
+			[
+				"opac",
+				"util/helpers/opacity-and-visibility.styl"
+			],
+			[
+				"boots",
+				"bootstrap.styl"
+			],
+			[
+				"test",
+				"util/helpers/text.styl"
+			],
+			[
+				"show",
+				"util/helpers/show-and-hide.styl"
+			],
+			[
+				"z-",
+				"util/helpers/z-index.styl"
+			],
+			[
+				"form",
+				"util/helpers/form.styl"
+			],
+			[
+				"box",
+				"util/helpers/box.styl"
+			],
+			[
+				"ge",
+				"util/helpers/generals.styl"
+			],
+			[
+				"ma",
+				"util/helpers/margin-and-padding.styl"
+			],
+			[
+				"te",
+				"util/helpers/text.styl"
+			],
+			[
+				"he",
+				"util/helpers/height.styl"
+			],
+			[
+				"gee",
+				"util/helpers/generals.styl"
+			],
+			[
+				"gen",
+				"util/helpers/generals.styl"
+			],
+			[
+				"gene",
+				"util/helpers/generals.styl"
+			],
+			[
+				"media",
+				"static/css/util/media-queries.styl"
+			],
+			[
+				"quer",
+				"static/css/util/helpers/queries.styl"
+			],
+			[
+				"dis",
+				"static/css/util/helpers/display.styl"
+			],
+			[
+				"va",
+				"static/css/vars.styl"
+			],
+			[
+				"colors.c",
+				"static/css/colors.css"
+			],
+			[
+				"colors",
+				"static/css/colors.styl"
+			],
+			[
+				"tes",
+				"bower_components/owl.carousel/docs/demos/test.html"
+			],
+			[
+				"vars",
+				"static/css/vars.styl"
+			],
+			[
+				"curs",
+				"static/css/util/helpers/cursor.styl"
+			],
+			[
+				"helpers/",
+				"static/css/util/helpers/position.styl"
+			],
+			[
+				"flexbox",
+				"bower_components/flexboxgrid/src/css/flexboxgrid.css"
+			],
+			[
+				"owl",
+				"static/css/owl.styl"
+			],
+			[
+				"ul",
+				"static/css/util/helpers/list.styl"
+			],
+			[
+				"f",
+				"static/css/util/helpers/form.styl"
+			],
+			[
+				"gener",
+				"static/css/util/helpers/generals.styl"
+			],
+			[
+				"style",
+				"static/css/style.styl"
+			],
+			[
+				"list",
+				"static/css/util/helpers/list.styl"
+			],
+			[
+				"anch",
+				"static/css/util/helpers/anchor.styl"
+			],
+			[
+				"posi",
+				"static/css/util/helpers/position.styl"
+			],
+			[
+				"helpers",
+				"static/css/util/helpers/list.styl"
+			],
+			[
+				"anchor",
+				"static/css/util/helpers/anchor.styl"
+			],
+			[
+				"util",
+				"static/css/util/helpers/list.styl"
+			],
+			[
+				"index.",
+				"app/views/index.pug"
+			],
+			[
+				"log",
+				"app/libraries/logger.js"
+			],
+			[
+				"logg",
+				"app/libraries/logger.js"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"rouer",
+				"app/http/routes/router.js"
+			],
+			[
+				"logger",
+				"app/libraries/logger.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"morad",
+				"/mnt/projects/www/morada.ui.sublime-project"
+			],
+			[
+				"",
+				"/mnt/projects/www/morada.ui.sublime-project"
+			],
+			[
+				"mora",
+				"/mnt/projects/www/morada.sublime-project"
+			],
+			[
+				"morada",
+				"/mnt/projects/www/morada.sublime-project"
+			],
+			[
+				"yappphp",
+				"/mnt/projects/yappphp.sublime-project"
+			],
+			[
+				"mor",
+				"/mnt/projects/www/morada.sublime-project"
+			],
+			[
+				"yapp",
+				"/www/yappjs.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

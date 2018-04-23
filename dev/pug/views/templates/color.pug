@@ -1,3 +1,5 @@
+include ../../inc/mixins
+
 article#color
 	header
 		h3.fw300.fsp26 Color
@@ -7,7 +9,7 @@ article#color
 			.pt10.pb10
 				span.cF.bc0 This text has color #FFF with .cF class
 		article
-			code.html.mr0.ml0
+			code.html.mr0.ml0(oo-snippet)
 				pre
 					+scape()
 						span.cF.bc0 This text has color #FFF with .cF class

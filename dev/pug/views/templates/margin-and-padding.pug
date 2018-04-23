@@ -1,3 +1,5 @@
+include ../../inc/mixins
+
 article#margin-padding
 	header
 		h3.fw300.fsp26 Margin and padding
@@ -114,7 +116,7 @@ article#margin-padding
 					div.p10.bc3.cF This parragraph has padding 10px
 				.col
 					div.m10.bc3.cF And this one has margin 10px
-			code.html.ml0.mr0
+			code.html.ml0.mr0(oo-snippet)
 				pre
 					+scape()
 						div.p10 This parragraph has padding 10px

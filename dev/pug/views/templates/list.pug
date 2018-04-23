@@ -1,3 +1,5 @@
+include ../../inc/mixins
+
 article#list
 	header
 		h3.fw300.fsp26 List
@@ -45,7 +47,7 @@ article#list
 							td= i
 		article
 			h4.fw300 Aux classes
-			code.stylus.mr0.ml0
+			code.stylus.mr0.ml0(oo-snippet)
 				pre.
 					.list-reset
 						padding 0
@@ -62,7 +64,7 @@ article#list
 				li item
 				li item
 				li item
-			code.html.ml0.mr0
+			code.html.ml0.mr0(oo-snippet)
 				pre
 					+scape()
 						ul.list-inline
@@ -79,7 +81,7 @@ article#list
 				li item
 				li item
 				li item
-			code.html.mr0.ml0
+			code.html.mr0.ml0(oo-snippet)
 				pre
 					+scape()
 						ul.list-reset
@@ -95,7 +97,7 @@ article#list
 				li item
 				li item
 				li item
-			code.html.ml0.mr0
+			code.html.ml0.mr0(oo-snippet)
 				pre
 					+scape()
 						ul.list-reset.list-inline
