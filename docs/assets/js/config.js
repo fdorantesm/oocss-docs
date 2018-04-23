@@ -8,7 +8,7 @@
     '$routeProvider',
     function($locationProvider,
     $routeProvider) {
-      $routeProvider.when('/',
+      return $routeProvider.when('/',
     {
         controller: 'mainCtrl',
         templateUrl: './assets/templates/home.html'
@@ -71,10 +71,6 @@
       }).otherwise({
         controller: 'mainCtrl',
         template: "<h3>404</h3>"
-      });
-      return $locationProvider.html5Mode({
-        enabled: true,
-        requireBase: true
       });
     }
   ]);

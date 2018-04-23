@@ -6,7 +6,8 @@
   app.controller('mainCtrl', [
     "$scope",
     function($scope) {
-      return $scope.version = "1.0.0";
+      $scope.version = "1.0.0";
+      return $scope.baseUrl = window.location.origin;
     }
   ]);
 
